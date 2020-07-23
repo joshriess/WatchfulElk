@@ -1,4 +1,4 @@
-# elk-alerts
+# WatchfulELK
 
 This program queries the KSU Cyber Defense Club Elastic Stack for alerts and sends them to Slack.
 
